@@ -17,3 +17,7 @@ end
 
 require "lazy_setup"
 require "polish"
+
+require("kanagawa").load("dragon")
+require('mini.surround').setup()
+-- require("leap").create_default_mappings()
