@@ -8,7 +8,6 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.ruby" },
   { import = "astrocommunity.motion.mini-surround" },
-  { import = "astrocommunity.test.neotest" },
   { import = "astrocommunity.project.nvim-spectre" },
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
   -- import/override with your plugins folder
