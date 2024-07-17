@@ -12,5 +12,6 @@ return {
   { import = "astrocommunity.project.nvim-spectre" },
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
+  { import = "astrocommunity.recipes.telescope-lsp-mappings" },
   -- import/override with your plugins folder
 }
