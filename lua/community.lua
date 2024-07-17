@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- { import = "astrocommunity.pack.ruby" },
   { import = "astrocommunity.motion.mini-surround" },
+  { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.project.nvim-spectre" },
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
